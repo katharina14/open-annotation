@@ -1,5 +1,3 @@
-# Open Annotation
-
 ## Was ist Annotation?
 Man benutzt eine Annotation fast jeden Tag. Jeder Mensch hat schon selbst viele Annotationen beigefügt. Eine Notiz am Rande des Buches, eine Anmerkung in einer PDF Datei oder ein Verbesserungsvorschlag in den Kommentaren online oder auf dem Papier – all das ist nichts anderes als eine Annotation. 
 Eine Annotation bedeutet also Anmerkung, Beifügung, Hinzufügung. In diesem Sinn haben Annotationen den Charakter der Erklärung bzw. Ergänzung. 
