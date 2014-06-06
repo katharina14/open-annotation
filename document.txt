@@ -47,6 +47,9 @@ Hier werden automatisch aus den Texten oder Bildern Informationen generiert. Auc
 ### Kombination 
 Um zu ausreichenden und qualitativ besseren Ergebnissen zu kommen, werden die drei Formen der Generierung von Metadaten oft in einer Kombination eingesetzt: die automatische Generierung von Metadaten mit manuell erzeugten Metadaten durch Tagging oder Klassifikation.
 
+## Ausblick
+Bessere einheitliche Modelle, Systemen, Mechanismen, die allen Nutzer, unabhängig vom Wissensniveau, erlauben an allen möglichen Projekten im WWW teilzunehmen. Sichere Archivierungsmöglichkeiten für alle Annotationen der Welt. Das alles wird in der nächsten Zeit sich immer, schritt für schritt, weiter entwickeln und so mit werden alle Nutzer, Wissenschaftler usw. verbunden und können gemeinsam an einem Dokument arbeiten - das ist das größte Ziel. 
+
 ## Beispiel für Projekte
 _iAnnotate_ wurde organisiert um die Menschen noch näher zusammen zu bringen – Kommunikation und Austausch weltweit. 
 Letztes Jahr 2013 wurden die Anwendungsfälle für die Annotation besprochen und geteilt so wie präsentiert. 
