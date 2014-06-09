@@ -1,12 +1,14 @@
 # Open Annotation
 
 ## Was ist Annotation?
+
 Man benutzt eine Annotation fast jeden Tag. Jeder Mensch hat schon selbst viele Annotationen beigefügt. Eine Notiz am Rande des Buches, eine Anmerkung in einer PDF Datei oder ein Verbesserungsvorschlag in den Kommentaren online oder auf dem Papier – all das ist nichts anderes als eine Annotation. 
 Eine Annotation bedeutet also Anmerkung, Beifügung, Hinzufügung. In diesem Sinn haben Annotationen den Charakter der Erklärung bzw. Ergänzung. 
 Annotationen halten wichtige Zusatzinformationen fest. Diese Informationen sind zwar keine wesentlichen Stichworte und keine Haupttexte, aber sind für eine große Bedeutung.
 Annotation drückt quasi die Beziehungen zwischen zwei oder mehreren Ressourcen aus. Also es besteht eine gewisse Verbindung. 
 
 ## Die Entwicklung der Annotation
+
 Heutzutage wird es  nicht nur auf Papier annotiert. 
 Im Internet gibt es viele Möglichkeiten, verschiedene Texte und sämtliche Webseiten oder auch Multimedia-Dateien zu annotieren. 
 Genauer gesagt es kann alles, was im Internet eine Äquivalenz hat, zum Beispiel auch Personen, deren Profile bei Facebook, annotiert werden können.
@@ -15,22 +17,27 @@ Am Anfang wurden die papierbasierte Annotationsformen für die digitale Welt ang
 Alle Dokumente sind wurden mit Metainformationen versehen, die die Indexierung und Abfrage von Inhalten ermöglicht haben. 
 Zunächst wurde diese Form der Annotierung nur auf Texte angewendet, danach auch auf andere digitale Objekte wie eine Webseite, ein Bild oder ein Video. 
 Annotationen können dabei sowohl ergänzende Informationen zu einem Dokument darstellen, können aber auch in kollaborativen Prozessen eingesetzt werden – das bedeutet das die Ideen und Meinungen zu gemeinsamen Dokumenten können ausgetauscht werden beziehungsweise mit anderen „geteilt“ werden. 
-Problematisch bei digitalen offenen Annotationen sind verschiedene Systemen und verschiedene Tools, die Nutzer verwenden.
-Im Mai 2012 entwickelte die Open Annotation Community Group7 (W3C) eine Reihe von Vorarbeiten um die Annotationen zu spezifizieren und erstellte mit dem Open Annotation Core Data Model ein Referenzmodell für die Annotation von Ressourcen (auch Webressourcen). Der Grundprinzip sieht folgendermaßen aus: Eine Annotation wird prinzipiell als eine Verbindung zwischen der annotierten Ressource („target“) und dem Inhalt der Annotation („body“) definiert (siehe Abb.1).![abb1.jpg](images/abb1.jpg)
+Problematisch bei digitalen offenen Annotationen sind verschiedene Systemen und verschiedene Tools, die Nutzer verwenden. Im Mai 2012 entwickelte die Open Annotation Community Group7 (W3C) eine Reihe von Vorarbeiten um die Annotationen zu spezifizieren und erstellte mit dem Open Annotation Core Data Model ein Referenzmodell für die Annotation von Ressourcen (auch Webressourcen). Der Grundprinzip sieht folgendermaßen aus: Eine Annotation wird prinzipiell als eine Verbindung zwischen der annotierten Ressource („target“) und dem Inhalt der Annotation („body“) definiert (siehe Abb.1).
+
+![Abb. 1](images/abb1.jpg)
+
 Die Verbindung bedeutet, dass der Inhalt der Annotation irgendwie mit der annotierten Ressource zu tun hat.
 Das primäre Ziel der Open Annotation Datenmodell ist der Mechanismus für den Austausch von Anmerkungen zwischen Systemen. Dieser Mechanismus mit der Fähigkeit der Zusammenarbeit von verschiedenen Systemen kann entweder für den Austausch mit anderen oder die Migration von privaten Anmerkungen zwischen Geräten sein. Die gemeinsamen Anmerkungen(Ergänzungen/Annotationen) eines Dokuments/Datei/Webseite müssen in bestehende Sammlungen integriert beziehungsweise archiviert und wiederverwendet werden, ohne Verlust von wichtigen Informationen. 
 Das Modell sollte so viele Annotationsanwendungsfälle wie möglich abdecken.
 
 ## Warum Annotationen bei Webressourcen?
+
 Es gibt ganz unterschiedliche Motive, warum man Annotationen zu (Web-) Materialien hinzufügt beziehungsweise sie hinzufügen lässt. 
 Im Wesentlichen lassen sich dabei Absichten der Anbieter entsprechenden Plattformen von den Nutzern unterscheiden.
 Zum Beispiel schauen wir Anbieter von Medienarchiven oder Webmaterialien. Diese unterstützen und nutzen Annotationen vor allem um die Recherche der Medien/Materialien zu verbessern, um gute Empfehlungen für passendes weiteres Material zu geben, um die Materialien intelligent und sicher mit externen Daten und Ressourcen zu verknüpfen, um das Ranking bei Suchmaschinen zu verbessern, um das interne Wissensmanagement zu verbessern. 
 Aus Sicht des einzelnen Nutzers ist die Annotation wichtig für das eigene Informationsmanagement und um Materialien für andere erschließbar zu machen. Ob und wie einzelne Nutzer,  die Medien/Materiealien annotieren, hängt auch von der Art der Nutzung, also mit welchem Zweck sie es nutzen.
 
 ## Annotationsformen und -kombinationen
+
 Es gibt unterschiedliche Formen der Annotation:
 
 ### Professionelle Klassifikation
+
 Um Texte recherchierbar zu machen, werden häufig Volltextsuchen eingesetzt.  Dabei stößt man auf das Problem, dass man verwandte Begriffe oder Konzepte, die im Text beziehungsweise in den vorhandenen Annotationen nicht vorkommen, somit auch nicht recherchierbar sind.
 Mit Hilfe von Terminologien, zum Beispiel kontrollierten Vokabularen und Thesauri, werden Terme in Verbindung gebracht.
 
@@ -57,56 +64,10 @@ Dieses Jahr 2014 werden weitere Pläne fürs kommende Jahr besprochen und geteil
 Es wurden wieder mal neue Projekte, an denen man gemeinsam mitarbeiten kann, vorgestellt.
 
 ## Beispiel eines Instrument
+
 _Annotator_
 Annotator ist eine Open-Source-JavaScript-Bibliothek für die Erstellung einer Annotation im Web. Es stellt eine Reihe von Werkzeugen zur Verfügung, um Text in Webpages zu kommentieren. Ist auch einfach zu bedienen.
 
 ## Literaturliste
 
-@misc{hypothes.is.2014,
- author = {hypothes.is},
- year = {2014},
- url = {https://hypothes.is/what-is-it/},
- urldate = {05.06.2014}
-}
 
-@misc{Annotator.,
- author = {Annotator},
- title = {(Beispielseite)},
- url = {http://annotatorjs.org},
- urldate = {05.06.2014}
-}
-
-@misc{IAnnotate.2014,
- author = {{I Annotate}},
- year = {2014},
- title = {I Annotate - Annoto Ergo Sum: BUILDING A COMMUNITY TO ENABLE THE ANNOTATION OF THE WORLD'S KNOWLEDGE},
- url = {http://iannotate.org},
- urldate = {05.06.2014}
-}
-
-@misc{IngoFrommholz.2011,
- author = {{Ingo Frommholz}},
- editor = {Frommholz, Ingo},
- year = {2011},
- title = {Digitale Annotationen: Pr{\"a}sentation},
- url = {https://www.google.de/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=1\&ved=0CCwQFjAA\&url=http\%3A\%2F\%2Fwww.is.informatik.uni-duisburg.de\%2Fcourses\%2Fdl_ws05\%2Ffolien\%2FDigitaleAnnotationen.pdf\&ei=ex2RU6XqK8mX1AXg8ID4Dw\&usg=AFQjCNF5OaFU_F5AQuIpcCSb591qQCiZNw\&bvm=bv.68445247,d.bGE\&cad=rja},
- address = {Duisburg},
- urldate = {05.06.2014}
-}
-
-@misc{RobertSandersonLosAlamosNationalLaboratoryPaoloCiccareseMassachusettsGeneralHospitaland.2013,
- author = {{Robert Sanderson, Los Alamos National Laboratory Paolo Ciccarese, Massachusetts General Hospital and Harvard Medical School Herbert Van de Sompel, Los Alamos National Laboratory}},
- editor = {{Robert Sanderson, Los Alamos National Laboratory Paolo Ciccarese, Massachusetts General Hospital and Harvard Medical School Herbert Van de Sompel, Los Alamos National Laboratory}},
- year = {2013},
- title = {Open Annotation Data Model},
- url = {http://openannotation.org/spec/core/},
- urldate = {05.06.2014}
-}
-
-@misc{SalzburgNewMediaLabTheNextGeneration.2012,
- author = {{Salzburg NewMediaLab -- The Next Generation}},
- editor = {{Christoph Bauer, Georg G{\"u}ntner, Sebastian Schaffert}},
- year = {2012},
- title = {Qualit{\"a}tssicherung bei Annotationen. Soziale und technologische Verfahren in der Medienbranche.},
- url = {http://de.slideshare.net/snml/qualittssicherung-bei-annotationen-soziale-und-technologische-verfahren-in-der-medienbranche},
- }
